@@ -2,7 +2,7 @@ import Vue from "vue"
 import Router from "vue-router"
 import user from "./views/user.vue"
 import crane from "./views/crane.vue"
-import home from "./views/home.vue"
+import home from "./views/Home.vue"
 import login from "./views/login.vue"
 import report from "./views/report.vue"
 import store from './store.js'
